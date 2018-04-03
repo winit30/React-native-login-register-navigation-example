@@ -7,7 +7,7 @@ import {
   TouchableOpacity 
 } from 'react-native';
 
-export default class Logo extends Component<{}> {
+export default class Form extends Component<{}> {
 
 	render(){
 		return(
